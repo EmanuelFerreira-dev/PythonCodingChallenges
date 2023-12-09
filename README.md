@@ -19,6 +19,7 @@ El proyecto `HappyNumber` incluye un programa que imprime los primeros "n" núme
 
 ### Descripción
 El proyecto `EstacionCaliente` analiza un archivo de recorridos de Bicicletas de la Ciudad y devuelve las tres estaciones de origen más "calientes" en la mañana.
+Tener en cuenta la libreria CSV para leer el archivo.
 
 ### Desafíos
 - Procesamiento eficiente de un archivo grande.
@@ -27,9 +28,6 @@ El proyecto `EstacionCaliente` analiza un archivo de recorridos de Bicicletas de
 ### Instrucciones
 1. Ejecutar el archivo `estacion_caliente.py`.
 2. Ingresar la ruta del archivo CSV.
+3. Se puede descargar de https://data.buenosaires.gob.ar/dataset/bicicletas-publicas
 
-## Contribuciones
-¡Las contribuciones son bienvenidas! Si tienes sugerencias de mejora o encuentras errores, no dudes en abrir un problema o enviar una solicitud de extracción.
 
-## Licencia
-Este proyecto está bajo la licencia [MIT](LICENSE).
